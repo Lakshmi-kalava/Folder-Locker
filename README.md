@@ -1,7 +1,7 @@
 # CodeClause internship - Java Development Intern
-Task - Folder Locker(`<br>`)
-Language Used - Java(`<br>`)
-IDE - IntelliJIDEA(`<br>`)
+Task - Folder Locker \
+Language Used - Java\
+IDE - IntelliJIDEA\
 To develop a java programs which implements Folder locker application.(`<br>`)
 # How to use
 Register through your email and signUp.(`<br>`)
